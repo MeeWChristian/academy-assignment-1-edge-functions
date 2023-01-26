@@ -4,3 +4,6 @@ supabase/.env
 supabase/.env.local
 supabase/.env.production
 supabase/.env.development
+.env
+node_modules/
+supabase/.env
